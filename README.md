@@ -1,1 +1,1 @@
-# RTL-Day-26-RAM
+# RTL-Day-26-Dual Port Synchronous RAM
